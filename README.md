@@ -1,5 +1,5 @@
 ## 说明
-本工程是一个springboot+jdbc的一个基础示例工程。 整合了全局异常处理与响应消息封装。 
+本工程是一个springboot的一个基础示例工程。 整合了jdbc,全局异常处理与响应消息封装。 
 - 示例1：请求获取列表  
 ![TIM截图20200401113430.png](https://i.loli.net/2020/04/01/qBjLtGZXPgrs3h1.png)
 - 示例2：通过param参数查询单个  
